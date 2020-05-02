@@ -4,6 +4,9 @@
   "main": "index.js",
   "author": "Marco Santana <santannacostamarco@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
